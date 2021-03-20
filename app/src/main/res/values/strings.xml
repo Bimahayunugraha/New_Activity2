@@ -1,8 +1,14 @@
 <resources>
-    <string name="app_name">Activity1</string>
+    <string name="app_name">Project Aplikasi</string>
     <string name="text_icon">Icon Login</string>
     <string name="login">LOGIN</string>
     <string name="text_Email">Email</string>
     <string name="text_Password">Password</string>
     <string name="button_signin">SIGN IN</string>
+    <string name="tSelamat">Selamat Datang</string>
+    <string name="tKet">Silahkan cek data anda dibawah ini!</string>
+    <string name="tData">Data Anda</string>
+    <string name="txEmail">Hasil Email</string>
+    <string name="txPassword">Hasil Password</string>
+    <string name="label2">Login Berhasil</string>
 </resources>
