@@ -13,14 +13,14 @@
         android:layout_height="100dp"
         android:layout_marginLeft="16dp"
         android:layout_marginRight="16dp"
-        android:padding="15dp"
+        android:padding="20dp"
         android:contentDescription="@string/text_icon"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintHorizontal_bias="0.497"
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.223"
+        app:layout_constraintVertical_bias="0.217"
         app:srcCompat="@drawable/icon" />
 
     <TextView
@@ -35,9 +35,9 @@
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.367"
+        app:layout_constraintVertical_bias="0.370"
         android:text="@string/login"
-        android:textSize="35sp"
+        android:textSize="30sp"
         android:textColor="#3C67D6"
         android:textStyle="bold"/>
 
