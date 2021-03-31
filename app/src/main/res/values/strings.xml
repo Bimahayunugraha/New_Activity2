@@ -19,4 +19,13 @@
     <string name="ePass">Masukkan Password</string>
     <string name="eRepass">Masukkan Ulang Password</string>
     <string name="eAlamat">Masukkan Alamat</string>
+    <string name="lihatData">Lihat Data</string>
+    <string name="editData">Edit Data</string>
+    <string name="dataKontak">Data Kontak</string>
+    <string name="namaItem">Nama Item</string>
+    <string name="detailKontak">Detail Kontak</string>
+    <string name="infoNama">Nama    :</string>
+    <string name="infoNotel">No.HP :</string>
+    <string name="tNama">Nama</string>
+    <string name="tNotel">No.HP</string>
 </resources>
